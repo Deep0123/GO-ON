@@ -344,6 +344,9 @@ footer{
         padding-left: 10px;
         padding-bottom: 30px;
     }
+    footer ul{
+        padding-left: 0;
+    }
 }
 
 
@@ -351,6 +354,11 @@ footer{
 @media(max-width: 500px){
     .navbar .flex{
         flex-direction: column;
+    }
+}
+@media(max-width: 1060px){
+    .showcase-img img {
+        height: 459px;
     }
 }
     
