@@ -295,6 +295,7 @@ footer{
     }
     .navbar a {
         padding: 7px;
+        font-size: 12px;
     }
 	
     .showcase-img img {
