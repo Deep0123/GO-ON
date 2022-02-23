@@ -294,7 +294,7 @@ footer{
 	z-index: 9;
     }
     .navbar a {
-        padding: 7px;
+        padding: 4px;
         font-size: 12px;
     }
 	
@@ -365,7 +365,7 @@ footer{
         flex-direction: column;
     }
 }
-@media only screen and (min-width: 1060px){
+@media (min-width: 768px) and (max-width: 1060px){
     .showcase-img img {
         height: 459px;
     }
