@@ -297,6 +297,10 @@ footer{
         padding: 4px;
         font-size: 12px;
     }
+    .navbar ul {
+        display: flex;
+        padding-left: 0px;
+    }
 	
     .showcase-img img {
         height: 309px;
