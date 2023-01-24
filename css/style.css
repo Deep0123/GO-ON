@@ -218,8 +218,10 @@ li{
 }
 .container4 p{
     text-align: center;
-    padding-top: 10px;
+    /* padding-top: 10px; */
+    padding-bottom: 10px;
 }
+
 .contact{
     line-height: 0;
 }
